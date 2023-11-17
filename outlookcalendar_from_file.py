@@ -60,7 +60,7 @@ elif choice == "3":
     
     activities = pd.read_csv(FILE_PATH, sep=",", engine='python')
 
-    username = "aloksingh2012@outlook.com"
+    username = "example@outlook.com"
     password = getpass.getpass()
 
     for activity, date_and_time in zip(activities["activity_names"], activities["date_and_time"]):
