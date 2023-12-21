@@ -7,7 +7,7 @@ This project is designed to automate the process of creating calendar events in 
 # Installation
 1. Clone or download this repository to your local machine.
 ```
-   git clone https:https://github.com/aloksingh-rgb/make-schedule-on-outlook.git
+   git clone https://github.com/aloksingh-rgb/make-schedule-on-outlook.git
    ```
 2. Open a terminal or command prompt in the project directory.
 3. Install the required packages using the following command:
